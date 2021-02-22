@@ -1,6 +1,6 @@
 # flask-shop-list-webapp
 simple flask shop list webapp
-# Usage 
+# Usage :
 pip install -r requirment.txt
 # windows :
 cmd : set FLASK_APP=app.py
